@@ -1,0 +1,5 @@
+name: Ckeditor Bootstrap grid
+type: module
+description: Ckeditor plugin for Bootstrap Grid plugin
+core: 8.x
+package: Custom

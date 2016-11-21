@@ -1,0 +1,24 @@
+<?php
+
+/**
+ * @file
+ * Contains ckeditor_btgrid.module..
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function ckeditor_btgrid_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the ckeditor_btgrid module.
+    case 'help.page.ckeditor_btgrid':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('Ckeditor plugin for Bootstrap Grid plugin') . '</p>';
+      return $output;
+
+    default:
+  }
+}
