@@ -4,11 +4,11 @@
   "description": "Ckeditor plugin for Bootstrap Grid plugin",
   "keywords": ["Drupal"],
   "license": "GPL-2.0+",
-  "homepage": "https://www.drupal.org/project/ckeditor_btgrid",
+  "homepage": "https://webpro.ee",
   "minimum-stability": "dev",
   "support": {
-    "issues": "http://drupal.org/project/issues/ckeditor_btgrid",
-    "source": "http://cgit.drupalcode.org/ckeditor_btgrid"
+    "issues": "https://github.com/kaido24/ckeditor_btgrid/issues",
+    "source": "https://github.com/kaido24/ckeditor_btgrid"
   },
   "require": { }
 }
