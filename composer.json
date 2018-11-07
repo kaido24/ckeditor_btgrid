@@ -1,5 +1,5 @@
 {
-  "name": "drupal/ckeditor_btgrid",
+  "name": "kaido24/ckeditor_btgrid",
   "type": "drupal-module",
   "description": "Ckeditor plugin for Bootstrap Grid plugin",
   "keywords": ["Drupal"],
